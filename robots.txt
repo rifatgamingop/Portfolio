@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rifat.fissiondevs.fun/sitemap.xml
